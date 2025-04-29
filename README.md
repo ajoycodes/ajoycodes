@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Ajoy
 
-I'm a Computer Science student who enjoys building clean, fast, and user-friendly websites. I love turning ideas into real products, whether that means designing in Figma, developing in Framer, or writing code in React.
+I'm a Computer Science student @KUET who enjoys building clean, fast, and user-friendly websites. I love turning ideas into real products, whether that means designing in Figma, developing in Framer, or writing code in React.
 
 Right now, I’m working on web projects, Framer templates, and improving my problem-solving skills with LeetCode.
 
