@@ -40,6 +40,9 @@ Currently, I'm focused on:
 - **Data Structures & Algorithms**: Solving problems daily on **LeetCode** to master the building blocks of software development.
 - **Backend Development**: Expanding my knowledge of server-side technologies, particularly with the **Node.js** and **MongoDB** stack.
 
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajoycodes&layout=compact)
+
 ### GitHub Stats
 
 ![Ajoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajoycodes&show_icons=true&hide_title=true&hide=prs&count_private=true)
