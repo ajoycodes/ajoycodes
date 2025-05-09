@@ -8,7 +8,7 @@ Currently, I'm focused on:
 - Enhancing my **ML/AI** knowledge.
 
 <a href="https://leetcode.com/ajoycodes/">
-    <img height="220em" src="https://leetcard.jacoblin.cool/RoronoaArko?theme=dark&font=ABeeZee&ext=heatmap" /></a>
+    <img height="220em" src="https://leetcard.jacoblin.cool/ajoycodes?theme=dark&font=ABeeZee&ext=heatmap" /></a>
 
 ### My Tech Stack
 
