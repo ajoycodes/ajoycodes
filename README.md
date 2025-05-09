@@ -7,14 +7,12 @@ Currently, I'm focused on:
 - Solving challenging problems on **LeetCode** to improve my **problem-solving** and **algorithm** skills.
 - Enhancing my **ML/AI** knowledge.
 
-Check out my LeetCode profile for more insights into my coding journey:
-[![LeetCode](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=LeetCode&query=%24.stat.total_acs&url=https%3A%2F%2Fleetcode.com%2Fgraphql&prefix=Problems%20Solved%3A%20)](https://leetcode.com/ajoycodes/)
-[LeetCode Profile](https://leetcode.com/ajoycodes/)
-
+<a href="https://leetcode.com/ajoycodes/">
+    <img height="220em" src="https://leetcard.jacoblin.cool/RoronoaArko?theme=dark&font=ABeeZee&ext=heatmap" /></a>
 
 ### My Tech Stack
 
-#### **Frontend Development**
+#### **Frontend **
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
