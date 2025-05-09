@@ -7,6 +7,10 @@ Currently, I'm focused on:
 - Solving challenging problems on **LeetCode** to improve my **problem-solving** and **algorithm** skills.
 - Enhancing my **ML/AI** knowledge.
 
+Check out my LeetCode profile for more insights into my coding journey:
+[LeetCode Profile](https://leetcode.com/ajoycodes/)
+
+
 ### My Tech Stack
 
 #### **Frontend Development**
