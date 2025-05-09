@@ -8,6 +8,7 @@ Currently, I'm focused on:
 - Enhancing my **ML/AI** knowledge.
 
 Check out my LeetCode profile for more insights into my coding journey:
+[![LeetCode](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=LeetCode&query=%24.stat.total_acs&url=https%3A%2F%2Fleetcode.com%2Fgraphql&prefix=Problems%20Solved%3A%20)](https://leetcode.com/ajoycodes/)
 [LeetCode Profile](https://leetcode.com/ajoycodes/)
 
 
