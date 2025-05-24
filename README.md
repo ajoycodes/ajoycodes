@@ -2,7 +2,7 @@
 
 **Computer Science annd Engineering** student at **KUET**, a **web designer**, and a **front-end developer**. My goal is to craft beautiful, efficient, and accessible websites that not only look great but also deliver seamless experiences. I specialize in designing user-friendly interfaces with **Figma**, developing interactive websites using **Framer** and **React**, and writing scalable code with modern web technologies!
 
-Currently, I'm focused on:
+Currently, I'm focused on :
 - Building **Framer templates** that make web development easier and faster.
 - Solving challenging problems on **LeetCode** to improve my **problem-solving** and **algorithm** skills.
 - Enhancing my **ML/AI** knowledge.
