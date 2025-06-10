@@ -3,7 +3,6 @@
 **Computer Science annd Engineering** student at **KUET**, a **web designer**, and a **front-end developer**. My goal is to craft beautiful, efficient, and accessible websites that not only look great but also deliver seamless experiences. I specialize in designing user-friendly interfaces with **Figma**, developing interactive websites using **Framer** and **React**, and writing scalable code with modern web technologies!
 
 Currently, I'm focused on :
-- Building **Framer templates** that make web development easier and faster.
 - Solving challenging problems on **LeetCode** to improve my **problem-solving** and **algorithm** skills.
 - Enhancing my **ML/AI** knowledge.
 
@@ -12,7 +11,7 @@ Currently, I'm focused on :
 
 ### My Tech Stack
 
-#### **Frontend **
+#### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
