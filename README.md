@@ -4,7 +4,7 @@
 
 Currently, I'm focused on :
 - Solving challenging problems on **LeetCode** to improve my **problem-solving** and **algorithm** skills.
-- Enhancing my **ML/AI** knowledge.
+- Enhancing my **ML/AI** knowledge...
 
 <a href="https://leetcode.com/ajoycodes/">
     <img height="220em" src="https://leetcard.jacoblin.cool/ajoycodes?theme=dark&font=ABeeZee&ext=heatmap" /></a>
